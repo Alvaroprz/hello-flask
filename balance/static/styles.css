@@ -1,0 +1,35 @@
+header {
+    background-color: #b8174c;
+    color: #f0f0f0;
+    font-size: x-large;
+    height: 50px;
+    line-height: 50px;
+    padding-left: 20px;
+}
+
+.navbar {
+    background-color: #19a187;
+    color: #f0f0f0;
+    height: 25px;
+    line-height: 25px;
+    padding-left: 20px;
+}
+
+a:link, a:visited, a:active, a {
+    color: #f0f0f0;
+}
+
+.main {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+}
+
+.tabla {
+    width: 100%;
+}
+
+.footer {
+    padding: 20px;
+    border-top: #b8174c solid thin;
+}
